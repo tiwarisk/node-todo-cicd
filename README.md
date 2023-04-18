@@ -13,3 +13,4 @@ Run these commands:
 
 `node app.js`
 
+you can also i  install by docker-compose.
